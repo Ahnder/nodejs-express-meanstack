@@ -1,4 +1,12 @@
 
 h1 {
-    color: yellowgreen
+    color: yellowgreen;
+}
+
+.stranger {
+    color: orchid;
+}
+
+.name {
+    color: cornflowerblue;
 }
